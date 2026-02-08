@@ -10,7 +10,7 @@ This project displays multiple images dynamically using an array of objects and 
 
 ## 📂 GitHub Repository
 
-🔗 Repository: 
+🔗 Repository: https://github.com/Ajayandrew/dynamic_image_gallery.git
 
 
 ## 🚀 Features
