@@ -6,7 +6,7 @@ This project displays multiple images dynamically using an array of objects and 
 ---
 ## 🚀 Live Demo
 
-🔗 Live Site:
+🔗 Live Site: https://dynamic-image-gallery-ten.vercel.app/
 
 ## 📂 GitHub Repository
 
